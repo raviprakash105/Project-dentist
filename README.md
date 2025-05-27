@@ -1,7 +1,8 @@
-# Project-dentist
-This is  a demo project that i have created for dentist website where i have to market for their website.
-this is a dentist website where i have to work on catigary and sub catigory 
-the sub catagory are :
+#Project-Dentist
+This is a demo project I have created for a dentist's website, where I will market their services. This is a dentist website where I will work on categories and subcategories.
+
+The subcategories are:
+
 X-rays: To diagnose cavities, gum disease, and other issues below the gum line.
 Fluoride treatments: To strengthen teeth and prevent decay.
 Dental sealants: Applied to the chewing surfaces of molars and premolars to protect them from cavities.
