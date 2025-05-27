@@ -1,5 +1,5 @@
 # Project-dentist
-This is  a demo project tht i have created for dentist website where i have to market for their website.
+This is  a demo project that i have created for dentist website where i have to market for their website.
 this is a dentist website where i have to work on catigary and sub catigory 
 the sub catagory are :
 X-rays: To diagnose cavities, gum disease, and other issues below the gum line.
